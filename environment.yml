@@ -102,7 +102,7 @@ dependencies:
   - numpy-base
   - olefile
   - openblas
-  - opencv=4.0.1
+  - opencv
   - openh264
   - openssl
   - packaging
