@@ -175,4 +175,3 @@ dependencies:
   - zope.interface
   - zstd
   - lz4-c
-  - mesa-libgl-cos6-x86_64
